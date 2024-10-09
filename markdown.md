@@ -12,7 +12,7 @@
 - Oxandrolona
 
 [YouTube](https://www.youtube.com)
-[Otro_Markdown](https://www.example.com)
+[Otro_Markdown]([https://www.example.com](https://github.com/ASIR2Sirya/prueba2_sergio_ASIR/blob/main/markdown_linkado)
 
 ![Imagen](https://e7.pngegg.com/pngimages/793/323/png-clipart-denn%C5%8D-senshi-porygon-the-pokemon-company-porygon2-instagram-frame-angle-rectangle.png)
 
